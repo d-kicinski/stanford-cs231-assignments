@@ -8,4 +8,4 @@
 ## Progress:
 - [x] assignment 1
 - [x] assignment 2
-- [ ] assignment 3 :: #notfix
+- [ ] assignment 3 :: # probably wont fix yo
